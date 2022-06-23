@@ -8,3 +8,6 @@ To run:
 - Install Pip (instructions [here](https://pip.pypa.io/en/stable/installing/))
 - Install dependencies: `pip install --user -r requirements.txt`
 - Run script: `python get_insta_info.py`
+
+Or you can use pyinstaller:
+`pyinstaller *.py`
